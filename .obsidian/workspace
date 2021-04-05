@@ -6,18 +6,17 @@
       {
         "id": "70109e3f98b16dcc",
         "type": "leaf",
+        "active": true,
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Shrink/Noir Change.md",
-            "mode": "source"
+            "file": "1098T 1.pdf"
           }
         }
       },
       {
         "id": "3e69a75f6ac70777",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/Computer Setup.md",
+                "file": "1098T 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workflow/Computer Setup.md"
+                "file": "1098T 1.pdf"
               }
             }
           }
@@ -135,15 +134,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Workflow/Computer Setup.md",
+    "1098T 1.pdf",
+    "Workflow/Computer Setup Redux.pdf",
     "Shrink/Noir Change.md",
+    "Workflow/Computer Setup.md",
     "Zaretsky, Eli.md",
     "Video.md",
     "Workflow/TextEditor.md",
     "Workflow/Test.md",
     "Workflow/ScrivenerEditingTip.md",
-    "Workflow/Machine.pdf",
-    "Workflow/How I use Obsidian to manage my goals, tasks, notes, and software development knowledge base.md",
-    "Workflow/Computer Setup Redux.md"
+    "Workflow/Machine.pdf"
   ]
 }
