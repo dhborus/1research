@@ -1,3 +1,9 @@
+### Upshot -- 05 April 2021
+
+Decided to stick with Mac -- muscle memory and ease of use (the "just works" factor). Now the issue will be whether Sarah's Mac can be a usable machine.
+
+Having trouble with autocomplete.bib, but I will ride it out. 
+
 ### Thoughts on Linux Sun Apr  4 10:52:15 AM EDT 2021
 
 Slowly becoming more attuned to Linux and have solved some problems. Have, for instance, gone back to out-of-the-box keybindings. Will need to check exchange with Mac ecosystem, however.
@@ -20,4 +26,4 @@ Things are missing, I suppose, but I don't do the high end stuff -- just surfing
 
 Thinkpad purchase? -- hmm. So far MacBook Pro working well with Manjaro. Not sure it is worth it for a more conducive keyboard. (At moment wondering why bpytop is not running.) Maybe 15" as base; 13" as mobile? Maybe. Insures iPad is a consumption machine.
 
-Would want to find some use for keyboard. So maybe monitor as the purchase. At least we can try out Karen's discarded monitor with the 15" Pro. Or 13" with monitor for one-stop computing.[]
+Would want to find some use for keyboard. So maybe monitor as the purchase. At least we can try out Karen's discarded monitor with the 15" Pro. Or 13" with monitor for one-stop computing.
