@@ -2,7 +2,7 @@
 
 Decided to stick with Mac -- muscle memory and ease of use (the "just works" factor). Now the issue will be whether Sarah's Mac can be a usable machine.
 
-Having trouble with autocomplete.bib, but I will ride it out. 
+Having trouble with autocomplete.bib, but I will ride it out.
 
 ### Thoughts on Linux Sun Apr  4 10:52:15 AM EDT 2021
 

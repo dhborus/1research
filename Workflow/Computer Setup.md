@@ -8,7 +8,7 @@ suppress-bibliography: true
 
 
 ## Machine
-  [[Machine]] ^z3jJ^
+  [[Machine]]
 
 ## Apps:
 
