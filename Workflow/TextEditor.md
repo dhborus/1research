@@ -21,3 +21,5 @@ Because both Zettlr and Atom are markdown editors, differences are marginal. Iss
 
 
 [Devon](x-devonthink-item://4717A5FE-0A0B-4694-861F-60BC19EF6FA6)
+
+Wikilinks works for Atom, although it does require directory/file name	

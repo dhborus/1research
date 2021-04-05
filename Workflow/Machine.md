@@ -1,9 +1,21 @@
-Number of options 03 March 2021 ^z3jJ^
+---
+title: Machine
+author: Daniel H. Borus
+bibliography: Sources.bib
+csl: chicago-fullnote-bibliography.csl
+suppress-bibliography: true
+---
 
-**MacBook-monitor** – *Pros*: enables mobility and readability. Use of one machine means not dependent on synchronization through iCloud or Dropbox *Cons*: weak battery, inside Apple ecosystem, no streaming of ripped DVDs.
+Number of options 03 March 2021
 
-**iMac - iPad** – *Pros*: powerful, fixed, no need for upgrade. more screen real estate. Able to use mechanical keyboard*Cons*: iPad not a work machine, charging irritations, poor integration with new study.
+**MacBook-monitor** – *Pros*: enables mobility and readability. Use of one machine means not dependent on synchronization through iCloud or Dropbox 
 
-**On Linux** – It is time consuming to learn and set up but it does enable me to get beyond Tim's clutches, at least for computing. Less true for phone – which may be the final straw. Should at least make up a laptop.
+*Cons*: weak battery, inside Apple ecosystem, no streaming of ripped DVDs.
 
-**3 March Conclusion** – iMac – Macbook Pro as Linux machine. Upgrading to silicon appeals to techno cutting edge, but really do I need it? How about saving money? Would be nice to have a working laptop with healthy battery, though. 
+**iMac - iPad** – *Pros*: powerful, fixed, no need for upgrade. more screen real estate. Able to use mechanical keyboard
+
+*Cons*: iPad not a work machine, charging irritations, poor integration with new study.
+
+**On Linux** – It is time consuming to learn and set up but it does enable me to get beyond Tim's clutches, at least for computing. Less true for phone – which may be the final straw. Should at least make up a laptop. Getting there but not as polished as a Mac.[@aaron1951]. Nitro allows for file transfer easily.[@aaron1951, p. 32] Still hard to switch. 
+
+**12 March 2021 Conclusion** – Trouble in Mind. 

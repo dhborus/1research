@@ -43,7 +43,7 @@ Create bibliography page for finished books.
 Might bring Scrivener back. (probably not since it is not currently functioning on the iMac with Big Sur)
 
 
-**Random Observations**Obsidian links with DevonThink [Corporate Irresponsibility](x-devonthink-item://47B1D21F-B072-4016-9182-B5D26EAF878E)
+**Random Observations** Obsidian links with DevonThink [Corporate Irresponsibility](x-devonthink-item://47B1D21F-B072-4016-9182-B5D26EAF878E)
  doesn't seem to work. Atom and Zettlr don't -- Zettlr indicates devonthink-item not entered in launch services.
 
  Obsidian talks with Atom, but not Zettlr, when the link has directory-name. Talks with Zettlr, but not Atom, when link is name with no directory.

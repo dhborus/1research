@@ -1,6 +1,0 @@
-### Strange Days Indeed
-
-- [x] check on car
-#errands 
-
-[[lorry]]
