@@ -19,7 +19,7 @@ suppress-bibliography: true
 5. Mail – Spark
 6. Map – Scapple
 7. Document Management and Web Clips – DevonThink -- move markdown to file system –General to iA Writer; book to 1Writer. PDFs to Documents. [[Note-Taking]]
-8. PDF – PDF Expert
+8. PDF – PDF Expert[See, for instance,  @brick2006, p. 45]
 9. Password Manager – 1Password
 10. Notes in Obsidian [[Workflow/Note-Taking]] [[1research/Workflow/Note-Taking]]
 
