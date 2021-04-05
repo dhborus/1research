@@ -10,7 +10,7 @@ Slowly becoming more attuned to Linux and have solved some problems. Have, for i
 
 Zettlr works better with footnotes and has larger, more readable fonts. As of 4 April, has lost tab ability.
 
-K-runner has ability to do wikipedia (wp: ), imdb (imdb: ) and google (g:) searches. Needs https:// to go to websites.
+K-runner has ability to do wikipedia (wp: ), imdb (imdb: ) and google (g:) searches. Needs https:// to go to websites.[The end of the road is painful. See @borus1992, p. 33]
 
 Will have to investigate fan and cooling behavior. May be the deciding factor, along with battery life (which on the 15” was hardly exemplary with the Mac.)
 
