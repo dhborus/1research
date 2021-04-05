@@ -7,7 +7,7 @@ strength of desire and the consequences of them
 
 Blind Alley . . . Freudian turns over captor. Abnormality and normality thin line.
 
-ruthless maniac. Erratic, violent man. title from song that singer at piano sings. (Which Columbia picture was this? *In a Lonely Place*, I think)[]
+ruthless maniac. Erratic, violent man. title from song that singer at piano sings. (Which Columbia picture was this? *In a Lonely Place*, I think)
 
 [[Shrink/Topics]]
 
