@@ -1,6 +1,6 @@
 ### Upshot -- 05 April 2021
 
-Decided to stick with Mac -- muscle memory and ease of use (the "just works" factor). Now the issue will be whether Sarah's Mac can be a usable machine.
+Decided to stick with Mac -- muscle memory and ease of use (the "just works" factor). Now the issue will be whether Sarah's Mac can be a usable machine. Or whether turning to a new silicon machine is the way to go.[@brick2019, p. 67-91. Tanks' Bar and Grill works well.]
 
 Having trouble with autocomplete.bib, but I will ride it out.
 
