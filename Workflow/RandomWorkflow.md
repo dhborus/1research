@@ -2,7 +2,9 @@
 
 Decided to stick with Mac -- muscle memory and ease of use (the "just works" factor). Now the issue will be whether Sarah's Mac can be a usable machine. Or whether turning to a new silicon machine is the way to go.
 
-Having trouble with autocomplete.bib, both pickers revert to Zotero after placing citation in Atom. Something of a pain.
+Having trouble with autocomplete.bib, both pickers revert to Zotero after placing citation in Atom. Something of a pain.[@zaretsky1996, 67. Zaretsky's handling of the war in Sudetenland is worth attending to.] 
+
+Atom's packages are appealing – thesaurus, snips, keybindings, 
 
 
 
