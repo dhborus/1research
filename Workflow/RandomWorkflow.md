@@ -1,8 +1,10 @@
 ### Upshot -- 05 April 2021
 
-Decided to stick with Mac -- muscle memory and ease of use (the "just works" factor). Now the issue will be whether Sarah's Mac can be a usable machine. Or whether turning to a new silicon machine is the way to go.[@brick2019, p. 67-91. Tanks' Bar and Grill works well.]
+Decided to stick with Mac -- muscle memory and ease of use (the "just works" factor). Now the issue will be whether Sarah's Mac can be a usable machine. Or whether turning to a new silicon machine is the way to go.
 
-Having trouble with autocomplete.bib, but I will ride it out.
+Having trouble with autocomplete.bib, both pickers revert to Zotero after placing citation in Atom. Something of a pain.
+
+
 
 ### Thoughts on Linux Sun Apr  4 10:52:15 AM EDT 2021
 
@@ -10,7 +12,7 @@ Slowly becoming more attuned to Linux and have solved some problems. Have, for i
 
 Zettlr works better with footnotes and has larger, more readable fonts. As of 4 April, has lost tab ability.
 
-K-runner has ability to do wikipedia (wp: ), imdb (imdb: ) and google (g:) searches. Needs https:// to go to websites.[The end of the road is painful. See @borus1992, p. 33]
+K-runner has ability to do wikipedia (wp: ), imdb (imdb: ) and google (g:) searches. Needs https:// to go to websites.
 
 Will have to investigate fan and cooling behavior. May be the deciding factor, along with battery life (which on the 15” was hardly exemplary with the Mac.)
 
