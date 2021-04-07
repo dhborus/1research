@@ -1,10 +1,22 @@
-### Upshot -- 05 April 2021
+### 07 April 2021
+
+- Quit stalling on TextEditor, just choose. If autocomplete-bibtex worked flawlessly for Atom, that would be the choice because of the power that comes with packages, multiple editors, a file tree, and (finally) a workable github backup. But Zotero Citations and Zotero picker have the same flaw: send the focus back to Zotero. That is annoying.
+
+Now in truth, given note-taking procedures [[Workflow/Note-Taking]], most of the notes will have citation attached. Still.
+
+Zettlr does not do pdfs, but Obsidian does. In fact, Obsidian will be note-taking in second pain. 
+
+
+- Quit trying to make the iPad a work machine. Talked a lot about it but think it something of a failed experiment. Best choice -- get URLs and download as markdown on laptop. Second, send to Notes and use iCloud.
+
+
+### 05 April 2021
 
 Decided to stick with Mac -- muscle memory and ease of use (the "just works" factor). Now the issue will be whether Sarah's Mac can be a usable machine. Or whether turning to a new silicon machine is the way to go.
 
-Having trouble with autocomplete.bib, both pickers revert to Zotero after placing citation in Atom. Something of a pain.
+Having trouble with autocomplete.bibtex, both pickers revert to Zotero after placing citation in Atom. Something of a pain.
 
-Atom's packages are appealing – thesaurus, snips, keybindings, but the problems with autocomplete-bibtex severely undercut the virtues.[@adams1982, p. 52.] Works all of a sudden with JSON. 06 April 2021
+Atom's packages are appealing – thesaurus, snips, keybindings, but the problems with autocomplete-bibtex severely undercut the virtues. Works all of a sudden with JSON. And then, not. With JSON, needs a manual export to charge it up, as it were. 06 April 2021
 
 
 
@@ -12,11 +24,11 @@ Atom's packages are appealing – thesaurus, snips, keybindings, but the problem
 
 Slowly becoming more attuned to Linux and have solved some problems. Have, for instance, gone back to out-of-the-box keybindings. Will need to check exchange with Mac ecosystem, however.
 
-Zettlr works better with footnotes and has larger, more readable fonts. As of 4 April, has lost tab ability.
+Zettlr works better with footnotes and has larger, more readable fonts. As of 4 April, has lost tab ability.[@carrithers1985, p. 33]
 
 K-runner has ability to do wikipedia (wp: ), imdb (imdb: ) and google (g:) searches. Needs https:// to go to websites.
 
-Will have to investigate fan and cooling behavior. May be the deciding factor, along with battery life (which on the 15” was hardly exemplary with the Mac.)
+Will have to investigate fan and cooling behavior. May be the deciding factor, along with battery life (which on the 15” was hardly exemplary with the Mac.)[@brick]
 
 iCloud can be used for transfer, although it is hardly efficient. (Does mean that Mint or elementary is not ruled out, even if neither can do Nitroshare)
 
