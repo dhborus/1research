@@ -4,7 +4,7 @@
 
 Now in truth, given note-taking procedures [[Workflow/Note-Taking]], most of the notes will have citation attached. Still.
 
-Zettlr does not do pdfs, but Obsidian does. In fact, Obsidian will be note-taking in second pain. 
+Zettlr does not do pdfs, but Obsidian does. In fact, Obsidian will be note-taking in second pain.
 
 
 - Quit trying to make the iPad a work machine. Talked a lot about it but think it something of a failed experiment. Best choice -- get URLs and download as markdown on laptop. Second, send to Notes and use iCloud.

@@ -6,17 +6,19 @@ Ordinarily, I would stick with Apple equipment. There are two complicating facto
 
 Second, it seems clear that Apple will be moving away from the Intel architecture. That will force a choice of paying the Apple tax or using a laptop that is old, slow, and has a draining battery or one with a smaller screen (and possibly a draining battery). Laptops do have the advantage of portability, which will open up the iPad to be an entertainment device only.
 
-As it stands, few of my major apps are OS-dependent. Atom, Zettlr, pandoc-latex, Obsidian, Firefox, and Bitwarden are all plain text or available on different platforms. So a switch to Linux is theoretically possible, although I will be faced with the equipment problem mentioned above.  
+As it stands, few of my major apps are OS-dependent. Atom, Zettlr, pandoc-latex, Obsidian, Firefox, and Bitwarden are all plain text or available on different platforms. So a switch to Linux is theoretically possible, although I will eventually be faced with the equipment problem mentioned above.  
 
-So until June, the question is whether Linux will suffice. Can I communicate, research, write, and prepare for publication? Can I find replacements for Alfred, Keyboard Maestro, and MS Word? Can I learn the shortcuts? If yes, the test then becomes whether the 13" is usable. Key will be how well the battery lasts (the 15” works worse with Linux than with MacOS) and how the screen looks at that size.
+So the question is whether Linux will suffice. Can I communicate, research, write, and prepare for publication? Can I find replacements for Alfred, Keyboard Maestro, and MS Word? Can I learn the shortcuts? If yes, the test then becomes whether the 13" is usable. Key will be how well the battery lasts (the 15” works worse with Linux than with MacOS) and how the screen looks at that size.
 
-If Linux will not work, the question is whether the 13” or a silicon laptop will be the machine of choice. If I opt for Apple silicon, then sale or donation of old laptops.
+Linux does have a number of interesting features and advantages. It extends the life of the machine and can do much that the Mac can do. I was able to move the keys so as make basic hotkeys the same (although there is an advantage to separating Linux and Mac shortcuts so as to recognize the differences), set up Autokey for snippets, and found a way to transfer files from Linux to Mac and to use Working Copy to download clips from Firefox on the iPad. Nitroshare (for Manjaro) and SSH are possible tools as well. I do not, as yet, have a full replacement for either Alfred or Keyboard Maestro (K-runner is an approximation)
 
-I have moved the keys, set up Autokey, and found a way to transfer files from Linux to Mac and to use Working Copy to download clips from Firefox on the iPad. Nitroshare (for Manjaro) and SSH are possible tools as well. I do not, as yet, have a replacement for either Alfred or Keyboard Maestro.
+However, switching platforms is more work than necessary (at least at the moment)
+
+
 
 ### Distro
 
-The general Linux question is whether I can comfortably do my work and use the computer as I more or less use a Mac. There is, of course, much to learn, and so it appeals to my acquire skills inclinations. But it also will mean that I remove myself from the shiny, just works world of Apple. The development of silicon and Big Sur and beyond means that the mac collection in the house will eventually become obsolete at worst and "laggy" at best. The virtue of Linux is that it will extend the life of my current machines and save me money. This result makes even more sense given that I do not do heavy work (video, photos, music) but surf and research, take notes and write. Yes, there's streaming but not so much as to tax the machine. Linux makes sense for those things, even with a steep learning curve.
+
 
 As for the distribution, I have solved many of the Manjaro problems -- screen fonts (16X9 rather than X10), email, Dropbox, Autokey usage, update, Zotero picker rather than autocomplete, Mint is solid but it isn't very exciting. Manjaro has great software repositories, although Debian-based distros and easier to learn. I have heard that Manjaro eventually runs into difficulties once updating occurs, so I will keep elementary in reserve since it is terribly solid and is the most Mac-like.
 
