@@ -1,11 +1,7 @@
 Title: Political Freud: A History
-
 Author: Eli Zaretsky
-
 City: New York
-
 Publisher: Columbia University process
-
 Year: 2017
 
 Summary:
@@ -180,6 +176,24 @@ Tags: #violence #selfhood
 Note: left-liberal psychiatrists Benjamin Karpman and Frederick Wertham -- Wright saw blindness of white man as a defense barrier. Karpman told Wright that he felt that "neurotics and psychotics are a greatly misunderstood minority" Added criminals and homosexuals to the list. A scientific parallel to *Native Son*. 
 
 Tags: #leftists #psychiatrists 
+
+
+Author: Zaretsky, Eli
+Title: Political Freud
+Year: 2017
+Argument:  
+
+Tags: 
+Links: 
+Date: 2021_04_09
+
+
+
+
+
+
+
+
 
 
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/Computer Setup.md",
+            "file": "Sources/EZ_PF.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 151,
-    "collapsed": true
+    "width": 151
   },
   "right": {
     "id": "28561f943ea72551",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/Computer Setup.md",
+                "file": "Sources/EZ_PF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workflow/Computer Setup.md"
+                "file": "Sources/EZ_PF.md"
               }
             }
           }
@@ -127,15 +126,15 @@
   },
   "active": "3e69a75f6ac70777",
   "lastOpenFiles": [
+    "Sources/EZ_PF.md",
+    "EZ.md",
+    "Sources/Crick_Freud_IOD.md",
+    "Centered Films/Film List.md",
+    "Shrink/Noir Change.md",
+    "Centered Films/Untitled.md",
     "Workflow/Computer Setup.md",
     "1098T 1.pdf",
     "Workflow/Computer Setup Redux.pdf",
-    "Shrink/Noir Change.md",
-    "Zaretsky, Eli.md",
-    "Video.md",
-    "Workflow/TextEditor.md",
-    "Workflow/Test.md",
-    "Workflow/ScrivenerEditingTip.md",
-    "Workflow/Machine.pdf"
+    "Zaretsky, Eli.md"
   ]
 }

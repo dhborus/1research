@@ -9,10 +9,19 @@ suppress-bibliography: true
 ## On Notes
 
 **Stage One**: Begin with Source Notes with publication information and a summary.
+Zaretsky_PolFreud (File Title:)
 
-Add notes of date, title, content, tags, links.
+HeadNote
+Author: Zaretsky, Eli
+Title: Political Freud
+Year: 2017
+Argument: 
 
-File Title: Author_Short Book Title
+Tags: 
+Links: 
+Date: 2021_04_09
+
+
 
 ### Subnotes Date-Time_NoteName
 
