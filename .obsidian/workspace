@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 151
+    "width": 275
   },
   "right": {
     "id": "28561f943ea72551",
@@ -127,9 +127,9 @@
   "active": "3e69a75f6ac70777",
   "lastOpenFiles": [
     "Sources/EZ_PF.md",
+    "Centered Films/Film List.md",
     "EZ.md",
     "Sources/Crick_Freud_IOD.md",
-    "Centered Films/Film List.md",
     "Shrink/Noir Change.md",
     "Centered Films/Untitled.md",
     "Workflow/Computer Setup.md",

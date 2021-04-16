@@ -3,7 +3,8 @@
 #### Director: [David Miller](https://www.imdb.com/name/nm0588183/?ref_=tt_ov_dr)
 #### Writers: [Dalton Trumbo](https://www.imdb.com/name/nm0874308/?ref_=tt_ov_wr) (screenplay), [Edward Abbey](https://www.imdb.com/name/nm0007872/?ref_=tt_ov_wr) (novel)
 #### Stars: [Kirk Douglas](https://www.imdb.com/name/nm0000018/?ref_=tt_ov_st_sm), [Gena Rowlands](https://www.imdb.com/name/nm0001687/?ref_=tt_ov_st_sm), [Walter Matthau](https://www.imdb.com/name/nm0000527/?ref_=tt_ov_st_sm)
-#### Summary: Loner, self-reliant cowboy clashes with modern society during effort to break out friend in jail for aiding Mexican migrants. Chased by law enforcement using helicopters and tracking device, The Douglas character is killed when his horse spooks trying to cross super highway and he is struck by truck carrying toilets to a New Mexico construction site. Rugged individualism portrayed as both heroic and doomed and not only ill-fitted for modern life but also modern love
+#### Summary: 
+Loner, self-reliant cowboy clashes with modern society during effort to break out friend in jail for aiding Mexican migrants. Chased by law enforcement using helicopters and tracking device, The Douglas character is killed when his horse spooks trying to cross super highway and he is struck by truck carrying toilets to a New Mexico construction site. Rugged individualism portrayed as both heroic and doomed and not only ill-fitted for modern life but also modern love
 Tags: #Modern; #Western #Individualism
 Date: 2021_04_10
 

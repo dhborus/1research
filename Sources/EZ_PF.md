@@ -178,14 +178,7 @@ Note: left-liberal psychiatrists Benjamin Karpman and Frederick Wertham -- Wrigh
 Tags: #leftists #psychiatrists 
 
 
-Author: Zaretsky, Eli
-Title: Political Freud
-Year: 2017
-Argument:  
 
-Tags: 
-Links: 
-Date: 2021_04_09
 
 
 
