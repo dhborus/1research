@@ -1,17 +1,21 @@
+### 16 April 2021
+
+Still intrigued by Manjaro and by Atom. Nothing particularly rules them out, although it will return to same problems – you did switch back to Mac for a reason. Should be interesting what the Big Sur replacement will look like. The Zettlr - Obsidian combination works well. Atom could be an all-in-one solution with Wikilinks. 
+
 ### 12 April 2021
 
-Notes in Obsidian; writing in Zettlr. OS is secondary, really. The key will be the ability to move files from one to the other. SSH and Nightshare. Dropbox, and so on. 
+Notes in Obsidian; writing in Zettlr. OS is secondary, really. The key will be the ability to move files from one to the other. SSH and Nightshare. Dropbox, and so on.
+
 ### 07 April 2021
 
 - Quit stalling on TextEditor, just choose. If autocomplete-bibtex worked flawlessly for Atom, that would be the choice because of the power that comes with packages, multiple editors, a file tree, and (finally) a workable github backup. But Zotero Citations and Zotero picker have the same flaw: send the focus back to Zotero. That is annoying.
 
 Now in truth, given note-taking procedures [[Workflow/Note-Taking]], most of the notes will have citation attached. Still.
 
-Zettlr does not do pdfs, but Obsidian does. In fact, Obsidian will be note-taking in second pane. Atom makes sense *if* I do a 15" Manjaro - 13" Mac arrangement through Nitroshare and GitHub. 
+Zettlr does not do pdfs, but Obsidian does. In fact, Obsidian will be note-taking in second pane. Atom makes sense *if* I do a 15" Manjaro - 13" Mac arrangement through Nitroshare and GitHub.
 
 
 - Reminder: the iPad is not a work machine. Talked a lot about it but think it something of a failed experiment. Best choice -- get URLs and download as markdown on laptop. Second, send to Notes and use iCloud.
-
 
 ### 05 April 2021
 

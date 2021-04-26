@@ -74,3 +74,6 @@ Once you hit enter, a link to that block will be generated for you, in the forma
 If you're not sure which file the block is in, another method is to type `[[^^` and search for blocks in all files. This will search through all the blocks in your vault, so expect a bit of delay if your vault is large.
 
 For example, [^dcf64c](https://publish.obsidian.md/help/How+to/Link+to+blocks#^dcf64c) is a link to a block above.[@boyd2003]
+
+option-command D dock
+command c, option command v to move file

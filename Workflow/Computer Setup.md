@@ -20,7 +20,7 @@ suppress-bibliography: true
 6. Map – Scapple
 7. Document Management and Web Clips – DevonThink -- move markdown to file system –General to iA Writer; book to 1Writer. PDFs to Documents. [[Note-Taking]]
 8. PDF – PDF Expert
-9. Password Manager – 1Password
+9. Password Manager – 1Password or Bitwarden
 10. Notes in Obsidian [[Workflow/Note-Taking]] [[1research/Workflow/Note-Taking]]
 
 ## Practices
@@ -47,6 +47,12 @@ Every highlight has an attached note. Those for interesting facts and points –
 2. **Books and Articles**
 
 Date, Note, Citation, Tags, Links
+
+### 202104261157_
+
+Note:
+
+Tags:
 
 Zettlr search works for all tags and linked files within a given folder. Command-click.
 
