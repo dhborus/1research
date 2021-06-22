@@ -151,42 +151,28 @@ Tags: #psychoanalysis #anthropology #Freud #collectivememory
 
 Note: for DuBois, likes blues, acceptance of in-between state, unjust but ultimately triumphant character of black experience. "The bittersweet 'blue' quality of the triumph is what hives Black literature, music, and visual art its deeply moving quality"[@zaretsky2017, p. 47]
 
-Tags: #art 
+Tags: #art
 
 ### 202008191524_Lynching
 
 Note: white twisted, more than ignorance. realization of DuBois, how little human action rooted in reason. [@zaretsky2017, p. 48]
 
-Tags: #crime #humanNature 
+Tags: #crime #humanNature
 
 ### 202008191602_Blues as Anti-Shame
 
 Note: rejection of personal inadequacy in group context. EZ points to scatological language. had a black middle class bent but often came through as proletarian and folk -- though certainly in danger of being commercialized and losing political implications. [@zaretsky2017, p. 51]
 
-Tags: 
+Tags:
 
 ### 202008191618_Wright and self-awareness
 
 Note: As with Bigger Thomas, comes in fiction through act of violence. EZ points to this as second stage of Hegel master/slave. beyond the blues as crimes committed against black people rose to level of consciousness realization of traumatic past. a will to confront the world, [@zaretsky2017, p. 54-6]
 
-Tags: #violence #selfhood 
+Tags: #violence #selfhood
 
 ### 202008191646_Wright and psychiatrists
 
-Note: left-liberal psychiatrists Benjamin Karpman and Frederick Wertham -- Wright saw blindness of white man as a defense barrier. Karpman told Wright that he felt that "neurotics and psychotics are a greatly misunderstood minority" Added criminals and homosexuals to the list. A scientific parallel to *Native Son*. 
+Note: left-liberal psychiatrists Benjamin Karpman and Frederick Wertham -- Wright saw blindness of white man as a defense barrier. Karpman told Wright that he felt that "neurotics and psychotics are a greatly misunderstood minority" Added criminals and homosexuals to the list. A scientific parallel to *Native Son*.[]
 
-Tags: #leftists #psychiatrists 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Tags: #leftists #psychiatrists

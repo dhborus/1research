@@ -12,3 +12,5 @@ At age 32, I was probably as bright as I was ever going to be. . . I had complet
 
 Calcaterra on the huzzahs about Bauer:
 t’s all an exercise in projection, though, with the reporter likely bringing in subconscious personal baggage. Silly notions about how they themselves could be that guy if they had only worked a bit harder. It’s also an exercise in racism on some level or another. Reporters have historically discounted the physical gifts of white players and played up their brains and character while discounting the hard work, brains, and character of Black and Latino players, who are often referred to “gifted” or “specimens.” The former group is often said to have “exceeded their limitations.” The latter is often criticized for having “wasted their natural talent.” It’s toxic garbage.
+
+SCRIV3MAC001-LSYK-J1LR-S58T-2BPQ-V5N1
